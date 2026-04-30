@@ -14,11 +14,6 @@ I am a results-driven developer with a passion for building secure, efficient, a
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Currently Mastering**
-* **Systems Programming:** Deep diving into how software interacts with hardware.
-* **Cybersecurity Analysis:** Implementing secure coding practices and encryption logic (like my Randomized Keypad project).
-* **Database Management:** Scaling applications using MySQL.
-
 ---
 
 ### 📂 Featured Projects
@@ -30,9 +25,11 @@ I am a results-driven developer with a passion for building secure, efficient, a
 
 ---
 
-### 📈 GitHub Stats
-![Jawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fosterj0219&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fosterj0219&layout=compact&theme=radical)
+### 🌐 Community & Growth
+
+* **Tech Expos & Conferences:** I make it a point to attend industry expos and tech conferences. I believe staying connected with the latest innovations and networking with fellow developers is key to staying sharp in this fast-paced field.
+* **Cybersecurity Advocacy:** I am deeply interested in how software engineering intersects with security. I'm constantly researching new ways to protect data and build more resilient systems.
+* **The "Anime" Mindset:** Much like my favorite anime protagonists, I believe in constant self-improvement and tackling every "impossible" coding challenge as an opportunity to level up. ⛩️
 
 ---
 
@@ -43,8 +40,8 @@ I’m looking to partner on:
 - **Open Source:** Anything involving Java or MySQL.
 
 ### 📫 Connect with Me
-- **GitHub:** You're already here! Feel free to explore my repos.
+- **GitHub:** You're already here! Feel free to explore my repos and see my latest commits.
 - **Pronouns:** He / Him
-- **⚡ Fun Fact:** I'm a huge anime fan and love staying ahead of the curve by attending tech conferences and expos to see the latest in software innovation! ⛩️💻
+- **⚡ Current Goal:** Mastering MySQL optimization and expanding my network within the tech community!
 
 ---
